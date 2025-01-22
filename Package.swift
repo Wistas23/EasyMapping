@@ -8,7 +8,7 @@ let package = Package(
     targets: [
         .target(
             name: "EasyMapping",
-            publicHeadersPath: "Sources/EasyMapping"
+            publicHeadersPath: "EasyMapping/"
         )
     ]
 )
